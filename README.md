@@ -1,0 +1,1 @@
+By using car data set and happydata set completed svm regression(svr)and svm classification(svc)
